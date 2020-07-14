@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericBackgroundWorker", "GenericBackgroundWorker\GenericBackgroundWorker.csproj", "{162EBAF7-8C5A-4ACC-AC83-3CFF6F66D875}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericBackgroundWorker.Implementation", "GenericBackgroundWorker.Implementation\GenericBackgroundWorker.Implementation.csproj", "{F966CA71-C4F8-4DEA-A878-6F7030DC9585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{162EBAF7-8C5A-4ACC-AC83-3CFF6F66D875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{162EBAF7-8C5A-4ACC-AC83-3CFF6F66D875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{162EBAF7-8C5A-4ACC-AC83-3CFF6F66D875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{162EBAF7-8C5A-4ACC-AC83-3CFF6F66D875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F966CA71-C4F8-4DEA-A878-6F7030DC9585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F966CA71-C4F8-4DEA-A878-6F7030DC9585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F966CA71-C4F8-4DEA-A878-6F7030DC9585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F966CA71-C4F8-4DEA-A878-6F7030DC9585}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B80F10F-2E90-48FC-B659-C82B54566559}
+	EndGlobalSection
+EndGlobal
